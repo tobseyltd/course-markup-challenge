@@ -17,29 +17,18 @@ This Project Should Teach You, Code Structure And Usage Of Semantic html Tags.
 ### Useful Links
 
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
-
-    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section?retiredLocale=de
-
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figcaption
 
 ### New Introduced Tags
 
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
-
     https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong
