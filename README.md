@@ -5,8 +5,8 @@ This Project Should Teach You, Code Structure And Usage Of Semantic html Tags.
 ### Instructions
 
 -   [ ] Clone this Repository To Your Local Mashine
--   [ ] Use <link> Tag to Insert CSS File from ./css Folder
--   [ ] Use <script> Tag to Insert JS file from ./js Folder
+-   [ ] Use "<link>" Tag to Insert CSS File from ./css Folder
+-   [ ] Use "<script>" Tag to Insert JS file from ./js Folder
 -   [ ] Edit html Markup In Your Code Editor
 -   [ ] Use Semantic html Tags To Structure Your Code
 
